@@ -13,7 +13,7 @@ module.exports = {
     CHATBOT: getConfig("CHATBOT") || "on",
     //chatbot on/off
   
-    SESSION_ID: process.env.SESSION_ID || "MEGALODON-MD~",  // Your bot's session ID (keep it secure)
+    SESSION_ID: process.env.SESSION_ID || "MEGALODON~MD~5BBlAQ7Z#bJAVccS4O5WrwOafeO9CHkZjUTeLdoze7jHxXYpL0W8",  // Your bot's session ID (keep it secure)
     
     PREFIX: getConfig("PREFIX") || ".",  // Command prefix (e.g., "., / ! * - +")
     
